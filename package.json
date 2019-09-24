@@ -14,6 +14,7 @@
     "@types/react": "^16.9.2",
     "@types/react-native": "^0.60.15",
     "@types/react-test-renderer": "^16.9.0",
+    "global": "^4.4.0",
     "jsc-android": "^245459.0.0",
     "react": "16.9.0",
     "react-native": "0.61.0-rc.3",
